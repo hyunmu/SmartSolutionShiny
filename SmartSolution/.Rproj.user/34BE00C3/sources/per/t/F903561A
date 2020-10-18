@@ -1,0 +1,24 @@
+{
+    "id": "F903561A",
+    "path": "C:/R/SmartSolutionShiny/SmartSolution/sourcing/mtcars/loadSource.R",
+    "project_path": "sourcing/mtcars/loadSource.R",
+    "type": "r_source",
+    "hash": "3011410590",
+    "contents": "",
+    "dirty": false,
+    "created": 1600992327185.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "cursorPosition": "2,24",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1561368388,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1561368388,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,24 @@
+{
+    "id": "DF24A15A",
+    "path": "C:/R/SmartSolutionShiny/SmartSolution/Base/main/samplingMain.R",
+    "project_path": "Base/main/samplingMain.R",
+    "type": "r_source",
+    "hash": "4151955523",
+    "contents": "",
+    "dirty": false,
+    "created": 1602921864180.0,
+    "source_on_save": false,
+    "relative_order": 9,
+    "properties": {
+        "cursorPosition": "68,24",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1599619312,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1599619312,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,10 @@
+name: smartsolutionshiny
+title:
+username:
+account: ai4ir
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2900066
+bundleId: 3677560
+url: https://ai4ir.shinyapps.io/smartsolutionshiny/
+when: 1601268819.4831

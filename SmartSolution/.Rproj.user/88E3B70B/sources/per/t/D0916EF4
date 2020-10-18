@@ -1,0 +1,24 @@
+{
+    "id": "D0916EF4",
+    "path": "C:/R/SmartSolutionShiny/SmartSolution/sourcing/diamonds/tidySource.R",
+    "project_path": "sourcing/diamonds/tidySource.R",
+    "type": "r_source",
+    "hash": "2346961770",
+    "contents": "",
+    "dirty": false,
+    "created": 1602926387766.0,
+    "source_on_save": false,
+    "relative_order": 10,
+    "properties": {
+        "cursorPosition": "26,54",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1601267683,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1601267683,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,32 @@
+{
+    "id": "0F5212A1",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1602923060284.0,
+    "source_on_save": false,
+    "relative_order": 9,
+    "properties": {
+        "expression": "DFSource",
+        "caption": "DFSource",
+        "totalObservations": 32,
+        "displayedObservations": 32,
+        "variables": 15,
+        "cacheKey": "0276807E",
+        "object": "DFSource",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=DFSource&cache_key=0276807E&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7358945710864364137,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1602923060284,
+    "read_only": false,
+    "read_only_alternatives": []
+}

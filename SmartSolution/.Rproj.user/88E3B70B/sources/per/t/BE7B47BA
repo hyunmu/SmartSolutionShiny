@@ -1,0 +1,24 @@
+{
+    "id": "BE7B47BA",
+    "path": "C:/R/SmartSolutionShiny/SmartSolution/main/sourcingMain.R",
+    "project_path": "main/sourcingMain.R",
+    "type": "r_source",
+    "hash": "3146079367",
+    "contents": "",
+    "dirty": false,
+    "created": 1601126819783.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "cursorPosition": "202,66",
+        "scrollLine": "172"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1602922831,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1602922831737,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,24 @@
+{
+    "id": "8DD236F1",
+    "path": "C:/R/SmartSolutionShiny/SmartSolution/sourcing/mtcars/tidySource.R",
+    "project_path": "sourcing/mtcars/tidySource.R",
+    "type": "r_source",
+    "hash": "1524792513",
+    "contents": "",
+    "dirty": false,
+    "created": 1602907328065.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "cursorPosition": "8,47",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1601218738,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1601218738,
+    "read_only": false,
+    "read_only_alternatives": []
+}

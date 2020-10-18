@@ -1,0 +1,24 @@
+{
+    "id": "8EBEFD89",
+    "path": "C:/R/SmartSolutionShiny/SmartSolution/Base/function/commonPlotReport.R",
+    "project_path": "Base/function/commonPlotReport.R",
+    "type": "r_source",
+    "hash": "759004606",
+    "contents": "",
+    "dirty": false,
+    "created": 1602906414398.0,
+    "source_on_save": false,
+    "relative_order": 13,
+    "properties": {
+        "cursorPosition": "197,23",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1600400268,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1600400268,
+    "read_only": false,
+    "read_only_alternatives": []
+}

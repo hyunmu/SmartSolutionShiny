@@ -1,0 +1,13 @@
+{
+    "dialog-state": {
+        "query": "Erae",
+        "path": "C:/R/SmartSolutionShiny/SmartSolution",
+        "regex": false,
+        "caseSensitive": false,
+        "filePatterns": [],
+        "excludeFilePatterns": [],
+        "resultsCount": 0,
+        "errorCount": 0,
+        "replaceErrors": ""
+    }
+}

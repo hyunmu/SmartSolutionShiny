@@ -1,0 +1,22 @@
+#ModalRadioButtons {
+width: 1200px;
+}
+
+#ModalRadioButtons .radio {
+float: left;
+margin: 10px;
+}
+
+#selModal {
+width: 1200px;
+}
+
+#selModal .radio {
+float: left;
+margin: 10px;
+}
+
+#selModal .checkbox {
+float: left;
+margin: 10px;
+}

@@ -1,0 +1,24 @@
+{
+    "id": "12EA9BE6",
+    "path": "C:/R/SmartSolutionShiny/SmartSolution/Base/tab/baseTabModule.R",
+    "project_path": "Base/tab/baseTabModule.R",
+    "type": "r_source",
+    "hash": "2499455661",
+    "contents": "",
+    "dirty": false,
+    "created": 1600992460031.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "cursorPosition": "17,97",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1577536422,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1577536422,
+    "read_only": false,
+    "read_only_alternatives": []
+}
