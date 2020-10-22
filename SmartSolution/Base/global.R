@@ -223,6 +223,7 @@ digitList <- list(predict=NA)
 digitList[["predict"]] <- list(predictTab1=NA)
 digitList[["predict"]][["predictTab1"]] <- list(pred=NA)
 digitList[["predict"]][["predictTab1"]][["pred"]] <- 0
+dateVarNames <- NULL
 
 ######################## tidying Tab  ##############################
 source("main/tidyingMain.R", encoding="UTF-8")

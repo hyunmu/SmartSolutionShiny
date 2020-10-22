@@ -99,14 +99,45 @@ renderAttrSamplingUI <- function() {
   boolTrueNum <- vapply(numVar, func1, logical(1))
   numVarTrue <- numVar[boolTrueNum]
   
-  DomainTable1Names <<- numVarTrue[1:12]
-  # DomainTable1Names <<- c("Sepal.Length", "Sepal.Width")
-  DomainTable1NamesLabel <<- DomainTable1Names
+  lengthNumVarTrue <- length(numVarTrue)
   
-  DomainTable2Names <<- numVarTrue[13:24]
-  DomainTable2NamesLabel <<- DomainTable2Names
-  DomainTable3Names <<- numVarTrue[25:36]
-  DomainTable3NamesLabel <<- DomainTable3Names
+  if (lengthNumVarTrue>12) {
+    DomainTable1Names <<- numVarTrue[1:12]
+    # DomainTable1Names <<- c("Sepal.Length", "Sepal.Width")
+    DomainTable1NamesLabel <<- DomainTable1Names
+  } else {
+    DomainTable1Names <<- numVarTrue[1:lengthNumVarTrue]
+    # DomainTable1Names <<- c("Sepal.Length", "Sepal.Width")
+    DomainTable1NamesLabel <<- DomainTable1Names
+  }
+  
+  if (lengthNumVarTrue>24) {
+    DomainTable2Names <<- numVarTrue[13:24]
+    # DomainTable1Names <<- c("Sepal.Length", "Sepal.Width")
+    DomainTable2NamesLabel <<- DomainTable1Names
+  } else if(lengthNumVarTrue>12) {
+    DomainTable2Names <<- numVarTrue[13:lengthNumVarTrue]
+    # DomainTable1Names <<- c("Sepal.Length", "Sepal.Width")
+    DomainTable2NamesLabel <<- DomainTable1Names
+  } else {
+    DomainTable2Names <<- NULL
+    DomainTable2NamesLabel <<- DomainTable1Names    
+  }
+  
+  if (lengthNumVarTrue>36) {
+    DomainTable3Names <<- numVarTrue[25:36]
+    # DomainTable1Names <<- c("Sepal.Length", "Sepal.Width")
+    DomainTable3NamesLabel <<- DomainTable1Names
+  } else if(lengthNumVarTrue>24) {
+    DomainTable3Names <<- numVarTrue[13:lengthNumVarTrue]
+    # DomainTable1Names <<- c("Sepal.Length", "Sepal.Width")
+    DomainTable3NamesLabel <<- DomainTable1Names
+  } else {
+    DomainTable3Names <<- NULL
+    DomainTable3NamesLabel <<- DomainTable1Names    
+  }
+
+  
   # chemCompName <- c("C","Si","Mn","P","S", "Cu", "Ni", "Cr", "Mo", "V", "Nb","Ti", "SolAl", "B",  "N2", "Ca")
   # chemCompNameLabel <- c("C","Si","Mn","P","S", "Cu", "Ni", "Cr", "Mo", "V", "Nb", "Ti","SolAl", "B(ppm)", "N2(ppm)",  "Ca(ppm)")
   
